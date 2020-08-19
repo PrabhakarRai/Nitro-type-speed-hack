@@ -9,6 +9,7 @@ Current Version: 5.1
 Release Date: 02/07/2020
 
 **Features (v4) : GUI Interface, Speed randomizer, Accuracy randomizer & Ban Protection**
+
 **Features (v5) : CLI Interface, Auto Lesson Detection, Session hack upto 750 races**
 
 Download From : [Madcap Hacker](https://www.theprabhakar.in)
