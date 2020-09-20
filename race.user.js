@@ -17,7 +17,6 @@
 
 (function() {
     'use strict';
-    //https://code.jquery.com/jquery-2.1.4.min.js
-    //under construction
+    //Script for v5 uploaded in separate repo -> https://github.com/PrabhakarRai/nitro-type-hack-bot
 
 })();
